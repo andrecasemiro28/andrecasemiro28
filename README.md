@@ -12,7 +12,7 @@ Estudante de **Ciência de Dados e Inteligência Artificial no IBMEC RJ**, com f
 | Projeto | O que responde | Técnicas |
 |---|---|---|
 | [**Scouting por similaridade**](https://github.com/andrecasemiro28/scouting-futebol) · [app ↗](https://scouting-futebol.streamlit.app) | Quem tem o perfil mais parecido com um jogador-alvo? | Python, pandas, z-score, similaridade de cosseno, Streamlit |
-| 🔜 Modelo de xG próprio | Qual a probabilidade de um chute virar gol? | Regressão logística, XGBoost, calibração |
+| [**Modelo de xG com machine learning**](https://github.com/andrecasemiro28/modelo-xg) · [app ↗](https://modelo-xg.streamlit.app) | Qual a probabilidade de um chute virar gol? | Gradient boosting, regressão logística, validação cruzada, calibração, Streamlit |
 | 🔜 Arquétipos de jogadores | Que "tipos" de ponta, volante etc. existem? | K-Means, UMAP |
 | 🔜 Análise tática de um time | Como um time constrói e pressiona? | Redes de passe, mapas de calor, PPDA |
 | 🔜 PLN + futebol | O que a imprensa fala de um jogador antes da contratação? | NLP, análise de sentimento, transformers |
